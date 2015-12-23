@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\AndroidProjects\hbgf\hbhri\libs"><file name="so.jar" path="C:\AndroidProjects\hbgf\hbhri\libs\so.jar"/><file name="tiandituapi2.2.2.jar" path="C:\AndroidProjects\hbgf\hbhri\libs\tiandituapi2.2.2.jar"/></source></dataSet><dataSet config="debug"><source path="C:\AndroidProjects\hbgf\hbhri\build-types\debug\jniLibs"/></dataSet></merger>

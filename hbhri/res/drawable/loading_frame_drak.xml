@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/loading_primary_00_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_01_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_02_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_03_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_04_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_05_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_06_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_07_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_08_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_09_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_10_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_11_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_12_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_13_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_14_dark" android:duration="50"></item>
+    <item android:drawable="@drawable/loading_primary_15_dark" android:duration="50"></item>
+
+</animation-list>

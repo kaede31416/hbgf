@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\hbgf\\hbhri\\build\\intermediates\\res\\merged\\debug\\xml\\fab_icon_states.xml",
+        "source": "C:\\AndroidProjects\\hbgf\\hbhri\\res\\xml\\fab_icon_states.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\hbgf\\hbhri\\build\\intermediates\\res\\merged\\debug\\xml\\nav_states.xml",
+        "source": "C:\\AndroidProjects\\hbgf\\hbhri\\build\\intermediates\\exploded-aar\\hbgf\\material\\unspecified\\res\\xml\\nav_states.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">湖北高分数据</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="open_string">open</string>
+    <string name="close_string">close</string>
+    <string name="title_activity_rules">RulesActivity</string>
+    <string name="rules">用户须知</string>
+    <string name="default_username">匿名用户</string>
+    <string name="default_userinfo">闲逛中……</string>
+    <string name="title_activity_tile_view_test">TileViewTest</string>
+    <string name="gaofen_title_1">简介</string>
+    <string name="gaofen_title_2">研发历史</string>
+    <string name="gaofen_title_3">卫星功能</string>
+    <string name="gaofen_title_4">设备性能</string>
+    <string name="gaofen_content_1_1">高分一号卫星，是中国航天科技集团公司所属空间技术研究院航天东方红卫星有限公司研制的应用卫星，是一种高分辨率对地观测卫星(简称“高分卫星”)。</string>
+    <string name="gaofen_content_1_2">“高分一号”于2013年4月26日在酒泉卫星发射中心由长征二号丁运载火箭成功发射。是高分辨率对地观测系统国家科技重大专项的首发星，配置了2台2米分辨率全色/8米分辨率多光谱相机，4台16米分辨率多光谱宽幅相机。</string>
+    <string name="gaofen_content_1_3">高分一号卫星突破了高空间分辨率、多光谱与高时间分辨率结合的光学遥感技术，多载荷图像拼接融合技术，高精度高稳定度姿态控制技术，5年至8年寿命高可靠卫星技术，高分辨率数据处理与应用等关键技术，对于推动我国卫星工程水平的提升，提高我国高分辨率数据自给率，具有重大战略意义。</string>
+    <string name="gaofen_content_2_1">2006年中国将高分辨率对地观测系统重大专项列入《国家中长期科学与技术发展规划纲要(2006-2020年)》，是当年部署的16个重大专项之一。高分辨率对地观测系统是中国正着手研发的新一代高分辨率对地观测系统。</string>
+    <string name="gaofen_content_2_2">2010年5月“高分专项”全面启动，计划到2020年建成我国自主的陆地、大气和海洋观测系统。尽管该“专项”主要是民用卫星，但外国专家认为，由于分辨率较高，也具备相当价值的军事用途，识别飞机、坦克已经不成问题。“高分一号”是我国高分辨率对地观测卫星系统重大专项（简称“高分专项”）的第一颗卫星。</string>
+    <string name="gaofen_content_2_3">2013年4月26日12时13分04秒由长征二号丁运载火箭成功发射。</string>
+    <string name="gaofen_content_3_1">高分一号卫星是中国高分辨率对地观测系统的第一颗卫星，由中国航天科技集团公司所属空间技术研究院研制，主要用户为国土资源部、农业部、环境保护部和气象部门。</string>
+    <string name="gaofen_content_3_2">高分一号卫星是中国高分辨率对地观测系统的首发星，突破了高空间分辨率、多光谱与宽覆盖相结合的光学遥感等关键技术，设计寿命5至8年。高分辨率对地观测系统工程是《国家中长期科学和技术发展规划纲要（2006～2020年）》确定的16个重大专项之一，由国防科工局、总装备部牵头实施。</string>
+    <string name="gaofen_content_3_3">高分一号卫星发射成功后，能够为国土资源部门、农业部门、气象部门、环境保护部门提供高精度、宽范围的空间观测服务，在地理测绘、海洋和气候气象观测、水利和林业资源监测、城市和交通精细化管理，疫情评估与公共卫生应急、地球系统科学研究等领域发挥重要作用。</string>
+    <string name="gaofen_content_4_1">“高分一号”是中国高分辨率对地观测系统国家科技重大专项的首发星，它配置有2台2米分辨率全色/8米分辨率多光谱相机和4台16米分辨率多光谱宽幅相机，设计寿命5至8年。</string>
+    <string name="gaofen_content_4_2">“高分一号”卫星具有高、中空间分辨率对地观测和大幅宽成像结合的特点，2米分辨率全色和8米分辨率多光谱图像组合幅宽优于60公里，16米分辨率多光谱图像组合幅宽优于800公里，为国际同类卫星观测幅宽的最高水平，从而大幅提升观测能力，并对大尺度地表观测和环境监测具有独特优势。有外媒揣测，高分辨率卫星将增强解放军的精确打击能力，并反制美军用于威慑中国的隐身武器。</string>
+    <string name="gaofen_content_4_3">“高分一号”的特点是增加了高分辨率多光谱相机，该相机的性能在国内投入运行的对地观测卫星中最强。此外，“高分一号”的宽幅多光谱相机幅宽达到了800公里，而法国发射的SPOT6卫星幅宽仅有60公里。“高分一号”在具有类似空间分辨率的同时，可以在更短的时间内对一个地区重复拍照，其重复周期只有4天，而世界上同类卫星的重复周期大多为10余天。可以说，“高分一号”实现了高空间分辨率和高时间分辨率的完美结合。</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>

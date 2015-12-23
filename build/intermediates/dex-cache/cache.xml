@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidProjects\hbgf\hbhri\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebefece9292d98e317a92282c13b711604972bda">
+        <dex dex="C:\AndroidProjects\hbgf\hbhri\build\intermediates\pre-dexed\debug\instant-run_6945bbf5c09b8614730bbb695cfdcc5f658941b6.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\hbgf\hbhri\build\intermediates\exploded-aar\hbgf\appcompat_v7\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91ab23ee244bf20acc1a64c849665d0a90debb96">
+        <dex dex="C:\AndroidProjects\hbgf\hbhri\build\intermediates\pre-dexed\debug\android-support-v4_c83bd003fc42bdeb492a973aa172b5a943adf725.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\hbgf\hbhri\build\intermediates\exploded-aar\hbgf\appcompat_v7\unspecified\jars\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bbe8747d19ef1c8ec3f2e50e8f96bdee650b0a44">
+        <dex dex="C:\AndroidProjects\hbgf\hbhri\build\intermediates\pre-dexed\debug\android-support-v7-appcompat_3764bf00d6915292a1619c6db77498d68a3fcbf2.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\hbgf\hbhri\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6c138ba72ce38beda559df33d369856854fd6f5">
+        <dex dex="C:\AndroidProjects\hbgf\hbhri\build\intermediates\pre-dexed\debug\android-support-v4_8c07f32fd47fc2ba8f19b63f6b52ef5acfacf22e.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\hbgf\hbhri\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7c450785da9d889d0005a36a9b18d5f383fdfe75">
+        <dex dex="C:\AndroidProjects\hbgf\hbhri\build\intermediates\pre-dexed\debug\classes_7c26aa91ea9e2d716465d8eb89c0d7c6e93a4bc1.jar" />
+    </item>
+    <item
+        jar="C:\AndroidProjects\hbgf\hbhri\build\intermediates\exploded-aar\hbgf\appcompat_v7\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac1c69f32f00734468a54da1fdf8ab7ce8dd22ee">
+        <dex dex="C:\AndroidProjects\hbgf\hbhri\build\intermediates\pre-dexed\debug\hbgf-appcompat_v7-unspecified_e3957375b1523d1182fe92c9aab820ed2cc5bbac.jar" />
+    </item>
+
+</items>

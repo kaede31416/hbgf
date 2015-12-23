@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.qozix.tileview"
+    android:versionCode="27"
+    android:versionName="2.0.7" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true" >
+    </application>
+
+</manifest>

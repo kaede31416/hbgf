@@ -1,0 +1,47 @@
+-injars 'C:\AndroidProjects\hbgf\hbhri\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\AndroidProjects\hbgf\hbhri\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\SDK\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\AndroidProjects\hbgf\hbhri\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.android.tools.fd.runtime.BootstrapApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.hbhri.SplashActivity {
+    <init>();
+}
+
+-keep class com.example.hbhri.MainActivity {
+    <init>();
+}
+
+-keep class com.example.hbhri.RulesActivity {
+    <init>();
+}
+
+-keep class com.example.hbhri.TileViewTest {
+    <init>();
+}
+
+-keep class com.example.hbhri.MapActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
